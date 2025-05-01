@@ -1,5 +1,3 @@
-![](https://snipboard.io/ke06yZ.jpg)
-
 # Ai+: Hands on Parallel Computing with Dask and Pandas
 
 Working on a single computer limits how much and how fast you can process data. Most real-world datasets are bigger than a single computer can process, so learning a parallel computing framework becomes increasingly necessary to be productive.  In this session, we will go over the Dask graph computing engine's major components from a hands-on perspective and how to leverage existing Pandas code to build scalable workflows. 
